@@ -332,6 +332,5 @@ body{
         background-color: rgb(255, 255, 255);
     }
     .footer__container:hover::after{
-        color: aqua;
         width: 270px;
     }
